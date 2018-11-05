@@ -1,0 +1,7 @@
+.scalene, .equilateral, .isosceles, .not-a-triangle {
+  display: none;
+}
+
+.btn {
+  display: block;
+}
